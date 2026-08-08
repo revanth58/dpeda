@@ -1,0 +1,9 @@
+write a python "Class Node" for a linked list node. the class should contain 2 data members called "value" and "next". value is of int type, next is of type "Node". 
+(i) write a single constructor function which takes one value k as input and initializes 'value' to 'k' and next to currently "None"
+(ii) in main (outside the class), create 4 node objects with values 10,20,30,40 and attatch them using next data members. for node10, node10.next = node20 . and so on.. until last node40 will have next as None
+
+what all are needed to create a dataframe? list different methods of creating a data frame
+
+write some python lines which will only contain a subset of columns and subset of rows in the main dataframe object "df" the inedxes of rows to be selected are {101,103,105,,,,119, 239,236,233,,,,200} and columns indexes are {0,2,4,,,,,20, 40,38,,,,,20}. you are supposed to create a new dataframe using df.iloc , just build appropriate lists for row indexes and column indexes you want to pass
+
+given a dataframe. how to sort the rows in decreasing order based on values of a particular column whose index is only given
